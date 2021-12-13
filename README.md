@@ -2,10 +2,6 @@
 ### By [@leosanchezsoler](https://github.com/leosanchezsoler) 🦁
 En este repositorio se encuentran los materiales para la clase de Data Science de The Bridge.
 
-
-1. [Introudcción](#Introudcción)
-2. [Folder structure](#Folder structure)
-
 # Introducción
 Pyspark es una de las herramientas más comúnmente utilizadas dentro de **Big Data**. \
 Su gran velocidad y capacidad de gestionar grandes volúmenes de datos, unido a su sencillez e integración con varios lenguajes de programación hacen de Spark una herramienta **indispensable** en el Stack de Data Science. 
