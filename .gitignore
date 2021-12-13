@@ -127,3 +127,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+databricks/solutions/Delta Tables Extra.dbc
+databricks/solutions/Extra DataFrame Pop vs. Price SQL.dbc
+databricks/solutions/Extra ML Lib Getting Started with MLlib.dbc
+databricks/solutions/prueba_timestamp.dbc
+databricks/solutions/SOL_1-rdd-creation.dbc
+databricks/solutions/SOL_2-rdd-basics.dbc
+databricks/solutions/SOL_3-DataFrame_Basics.dbc
+databricks/solutions/SOL_4-DataFrame_Basic_Operations.dbc
+databricks/solutions/SOL_5-GroupBy_and_Aggregate_Functions.dbc
+databricks/solutions/Structured Streaming using Python DataFrames Extra StructuredStreaming.dbc
+solutions/1-pyspark_intro_PROF.ipynb
+solutions/2-pyspark_dataframes_PROF.ipynb
+solutions/3-handling_missing_values_PROF.ipynb
+solutions/4-filter_operations_PROF.ipynb
+solutions/5-groupby_aggfuncs_PROF.ipynb
+solutions/6-pyspark_ml_example_PROF.ipynb
+solutions/8-linearRegression_PROF.ipynb
